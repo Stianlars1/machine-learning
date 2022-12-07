@@ -21,8 +21,8 @@ Tallene ser også normaliserte ut, og det finnes ingen rader som inneholder "nul
 
 
 
-Kernel SVC = Linear
-Kernel Decision Tree = Entropy
+Kernel SVC = linear
+Kernel Decision Tree = entropy
 
 Results: 
 
